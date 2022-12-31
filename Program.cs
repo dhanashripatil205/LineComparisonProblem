@@ -7,6 +7,8 @@
 
             Console.WriteLine("***** Welcome to the Line Comparison computation Program for Static Methods.*****");
 
+            LineComparison.checkLine();
+
         }
     }
 }
